@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Fundamentos JS</title>
+</head>
+<body>
+  <h1>Prueba de Fundamentos</h1>
+  <button id="btn">Click aquí</button>
+
+  <script>
+    // Variables y tipos de datos
+    let nombre = "Fernando";   // string
+    const edad = 21;           // number
+    let activo = true;         // boolean
+    let hobbies = ["programar", "jugar", "leer"]; // array
+    let persona = { nombre, edad, activo };       // objeto
+
+    console.log("Persona:", persona);
+
+    // Funciones declarativa
+    function saludar(nombre) {
+      return `Hola, ${nombre}!`;
+    }
+
+    // Función flecha
+    const despedir = (nombre) => `Adiós, ${nombre}!`;
+
+    // Callback
+    function procesarUsuario(user, callback) {
+      console.log(callback(user));
+    }
+
+    procesarUsuario("Fernando", saludar);
+    procesarUsuario("Fernando", despedir);
+
+    // Estructura de control
+    if (edad >= 18) {
+      console.log("Eres mayor de edad.");
+    } else {
+      console.log("Eres menor de edad.");
+    }
+
+    // DOM y eventos
+    document.getElementById("btn").addEventListener("click", () => {
+      alert(saludar(nombre));
+    });
+  </script>
+</body>
+</html>

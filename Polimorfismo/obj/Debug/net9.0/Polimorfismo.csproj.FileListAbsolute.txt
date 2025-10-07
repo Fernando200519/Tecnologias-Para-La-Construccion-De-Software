@@ -1,0 +1,14 @@
+C:\Users\zS23021811\Desktop\Profe. Magdiel\Polimorfismo\bin\Debug\net9.0\Polimorfismo.exe
+C:\Users\zS23021811\Desktop\Profe. Magdiel\Polimorfismo\bin\Debug\net9.0\Polimorfismo.deps.json
+C:\Users\zS23021811\Desktop\Profe. Magdiel\Polimorfismo\bin\Debug\net9.0\Polimorfismo.runtimeconfig.json
+C:\Users\zS23021811\Desktop\Profe. Magdiel\Polimorfismo\bin\Debug\net9.0\Polimorfismo.dll
+C:\Users\zS23021811\Desktop\Profe. Magdiel\Polimorfismo\bin\Debug\net9.0\Polimorfismo.pdb
+C:\Users\zS23021811\Desktop\Profe. Magdiel\Polimorfismo\obj\Debug\net9.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zS23021811\Desktop\Profe. Magdiel\Polimorfismo\obj\Debug\net9.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\zS23021811\Desktop\Profe. Magdiel\Polimorfismo\obj\Debug\net9.0\Polimorfismo.AssemblyInfo.cs
+C:\Users\zS23021811\Desktop\Profe. Magdiel\Polimorfismo\obj\Debug\net9.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\zS23021811\Desktop\Profe. Magdiel\Polimorfismo\obj\Debug\net9.0\Polimorfismo.dll
+C:\Users\zS23021811\Desktop\Profe. Magdiel\Polimorfismo\obj\Debug\net9.0\refint\Polimorfismo.dll
+C:\Users\zS23021811\Desktop\Profe. Magdiel\Polimorfismo\obj\Debug\net9.0\Polimorfismo.pdb
+C:\Users\zS23021811\Desktop\Profe. Magdiel\Polimorfismo\obj\Debug\net9.0\Polimorfismo.genruntimeconfig.cache
+C:\Users\zS23021811\Desktop\Profe. Magdiel\Polimorfismo\obj\Debug\net9.0\ref\Polimorfismo.dll
