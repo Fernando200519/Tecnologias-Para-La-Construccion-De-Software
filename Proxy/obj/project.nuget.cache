@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "63zfUbLUhgk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Migue\\OneDrive\\Documentos\\5_semestre\\tecnologias\\ConstruccionSoftware\\Proxy\\Proxy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Migue\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.10\\microsoft.win32.systemevents.9.0.10.nupkg.sha512",
+    "C:\\Users\\Migue\\.nuget\\packages\\skiasharp\\3.119.1\\skiasharp.3.119.1.nupkg.sha512",
+    "C:\\Users\\Migue\\.nuget\\packages\\skiasharp.nativeassets.macos\\3.119.1\\skiasharp.nativeassets.macos.3.119.1.nupkg.sha512",
+    "C:\\Users\\Migue\\.nuget\\packages\\skiasharp.nativeassets.win32\\3.119.1\\skiasharp.nativeassets.win32.3.119.1.nupkg.sha512",
+    "C:\\Users\\Migue\\.nuget\\packages\\system.drawing.common\\9.0.10\\system.drawing.common.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
